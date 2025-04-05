@@ -1,0 +1,16 @@
+pandas
+mlflow
+numpy
+notebook
+scikit-learn
+pyYAML
+python-Box
+joblib
+ensure
+dvc
+dagshub
+dvc_s3
+agno
+pydantic
+groq
+gradio

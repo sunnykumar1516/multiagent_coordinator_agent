@@ -1,0 +1,9 @@
+preprocess:
+  input: data/raw/resume_data.csv
+  outputcandidate: data/cleaned/candidates.csv
+  outputreq: data/cleaned/reqs.csv
+  inputJobreq: data/raw/jobreq.txt
+  jsonJobReq: data/cleaned/cleanedReq.json
+  jsoncandidate: data/cleaned/candidates.json
+  jsonResult: data/cleaned/result.json
+

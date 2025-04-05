@@ -1,0 +1,89 @@
+{
+    "skills": {
+        "items": {
+            "essential": [
+                "software development processes",
+                "testing and evaluating current networking systems",
+                "Java",
+                "Python",
+                "C++",
+                "scripting and test automation",
+                "rapid development cycles in a web-based environment"
+            ],
+            "preferred": [
+                "HTML5",
+                "CSS3",
+                "content management systems",
+                "Wicket",
+                "GWT",
+                "Spring MVC",
+                "relational databases",
+                "ORM and SQL technologies"
+            ]
+        },
+        "type": "object"
+    },
+    "experience": {
+        "items": [
+            {
+                "years": {
+                    "professional": {
+                        "minimum": 5,
+                        "description": "as an engineer of software and networking platforms"
+                    },
+                    "academic": {
+                        "minimum": 7,
+                        "languages": [
+                            "Java",
+                            "Python",
+                            "C++"
+                        ]
+                    }
+                },
+                "description": "with experience in software and networking platforms",
+                "type": "object"
+            }
+        ],
+        "type": "array"
+    },
+    "education": {
+        "items": [
+            {
+                "minimum": {
+                    "years": 4,
+                    "description": "as a software engineer or information technology student"
+                },
+                "type": "object"
+            }
+        ],
+        "type": "array"
+    },
+    "keywords": [
+        "innovative software solutions",
+        "software development",
+        "networking systems",
+        "growth",
+        "data",
+        "self-serve computing",
+        "reporting solutions",
+        "interactive querying",
+        "scalable software platforms",
+        "efficiency",
+        "networking solutions",
+        "continuous integration",
+        "software development lifecycle",
+        "distributed software",
+        "applications",
+        "synchronous and asynchronous design patterns",
+        "urgency",
+        "quality",
+        "global team",
+        "project operations",
+        "global technology stack",
+        "localized improvements",
+        "software and network system functionality",
+        "site reliability",
+        "next-wave product features",
+        "system capabilities"
+    ]
+}

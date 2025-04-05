@@ -1,0 +1,162 @@
+[
+    {
+        "id": 0,
+        "skills": "['Python', 'LeetCode', 'GDB', 'GitHub', 'HTML', 'MySQL', 'Lucidchart', 'Postman', 'OWASP ZAP', 'Jira']",
+        "degree_names": "['Bachelor of Science']",
+        "professional_company_names": "['Charles Schwab', 'Sysco', 'Accenture']",
+        "start_dates": "['2020', '2017', '2015']",
+        "end_dates": "['current', '2020', '2017']"
+    },
+    {
+        "id": 1,
+        "skills": "['assembly', 'ATM', 'Cadence', 'calibration', 'CA', 'hardware', 'DC', 'de-bugging', 'Ethernet', 'Graphic', 'ISO 9000', 'LabView', 'layout', 'Linux OS', 'Logic', 'Mentor', 'Access', 'MS Office', 'Windows', 'multimeters', 'network', 'networking', 'ORCAD', 'oscilloscopes', 'power supplies', 'procurement', 'purchasing', 'Quality Assurance', 'Routers', 'schematics', 'signal generators', 'SONET', 'Switches', 'T1', 'test equipment', 'trouble shooting', 'troubleshooting', 'validation', 'View']",
+        "degree_names": "['Associate Degree']",
+        "professional_company_names": "['Company Name', 'Company Name', 'Company Name']",
+        "start_dates": "['August 2007', 'January 2002', 'April 1995']",
+        "end_dates": "['October 2014', 'June 2007', 'November 2001']"
+    },
+    {
+        "id": 2,
+        "skills": "['Business Analyst', 'Data Analysis', 'Machine Learning', 'Python', 'C++', 'DotNet', 'Java', 'PyTorch']",
+        "degree_names": "['B.Tech (Civil)']",
+        "professional_company_names": "['CITI']",
+        "start_dates": "['March 2019']",
+        "end_dates": "['June 2020']"
+    },
+    {
+        "id": 3,
+        "skills": "['Software Engineer', 'Data Analyst', 'Machine Learning', 'Text Analytics', 'Software Development', 'Object Oriented Programming', 'Pandas', 'Numpy', 'Java', 'Python', 'SpringBoot', 'Laravel']",
+        "degree_names": "['B.Tech']",
+        "professional_company_names": "['KLP Technology Solutions']",
+        "start_dates": "['Jan 2019']",
+        "end_dates": "['till date']"
+    },
+    {
+        "id": 4,
+        "skills": "['Project Management', 'Secret Clearance', 'Risk management', 'Performance tracking and evaluation', 'Team building', 'Project analysis', 'Leadership mentoring', 'Business and requirements analysis', 'Operations management', 'Decisive leader']",
+        "degree_names": "['Graduate Certificate', 'MBA', 'Bachelor of Science']",
+        "professional_company_names": "['Company Name', 'Company Name', 'Company Name']",
+        "start_dates": "['01/2004', '01/2002', '07/1991']",
+        "end_dates": "['Current', '01/2004', '01/2002']"
+    },
+    {
+        "id": 5,
+        "skills": "['Microsoft Applications', 'Network Security', 'Networking', 'PC hardware and software installation, configuration, and troubleshooting', 'Remote Desktop and Help Desk Management', 'Verbal Communication', 'Technical Support', 'Team Leadership', 'Programming Languages', 'On-call tech support', 'Windows & Mac OS', 'Wiring/Wire Spicing: Cat3, Cat5, Cat5e, Coaxial', 'Management', 'VoIP, TCP/IP, IPSec, ATM, SS7, IPX, DNS, BIND, DHCP, HSRP and LAN/WAN architecture', 'Application Development', 'Voice Over IP Telephone', 'Inventory Management']",
+        "degree_names": "['Bachelor Degree', 'Associate Degree']",
+        "professional_company_names": "['N/A', 'Company Name', 'Company Name']",
+        "start_dates": "['August 2006', 'August 2013', 'July 2014']",
+        "end_dates": "['January 2013', 'September 2014', 'Current']"
+    },
+    {
+        "id": 6,
+        "skills": "[]",
+        "degree_names": "['M.S.', 'B.S.']",
+        "professional_company_names": "['FreshDirect', 'Marketing Science Associates']",
+        "start_dates": "['April 2018', 'April 2017']",
+        "end_dates": "['September 2018', 'September 2017']"
+    },
+    {
+        "id": 7,
+        "skills": "['Project Management', 'Secret Clearance', 'Risk management', 'Performance tracking and evaluation', 'Team building', 'Project analysis', 'Leadership mentoring', 'Business and requirements analysis', 'Operations management', 'Decisive leader']",
+        "degree_names": "['Graduate Certificate', 'MBA', 'Bachelor of Science']",
+        "professional_company_names": "['Company Name', 'Company Name', 'Company Name']",
+        "start_dates": "['01/2004', '01/2002', '07/1991']",
+        "end_dates": "['Current', '01/2004', '01/2002']"
+    },
+    {
+        "id": 8,
+        "skills": "['C', 'R', 'Catia', 'AutoCAD', 'ANSYS', 'Microsoft office', 'Product Project Management', 'GD&T', 'Minitab', 'Kanban', 'Kaizen', 'FMEA', 'development', 'Toyota production systems', 'APQP', 'PPAP', '8D', '5 why', \"KPI's\", 'Reliability SAE Standards', 'Vehicle ergonomics', 'DVP&R', 'QCC', 'CNC engineering', 'Programming', 'anatomy', 'benchmarking', 'lean manufacturing', 'manufacturing process', 'cost analysis', 'packaging', 'process engineering', 'Product Development', 'surveys', 'validation', 'welding']",
+        "degree_names": "['Master of Science', 'Bachelor of Engineering']",
+        "professional_company_names": "['Company Name', 'Company Name']",
+        "start_dates": "['07/2017', '06/2013']",
+        "end_dates": "['08/2017', '06/2016']"
+    },
+    {
+        "id": 9,
+        "skills": "['Data Science', 'Data Analysis', 'Data Analytics', 'Data Mining', 'Deep Learning', 'Machine Learning', 'Artificial Intelligence', 'Linear Regression', 'Python', 'Jupyter', 'OpenCV']",
+        "degree_names": "['B.Tech']",
+        "professional_company_names": "['NaxApp']",
+        "start_dates": "['Apr 2020']",
+        "end_dates": "['May 2020']"
+    },
+    {
+        "id": 10,
+        "skills": "['PLC', 'IEC 61131 (Ladder Logic, Functional Block Diagram, Structured Text, Instruction List.)', 'Java', 'C', 'Visual Basic', 'VHDL', 'PSpice', 'Assembly (Intel, Motorola, TI)', 'Labview', 'AutoCAD', 'Inventor', 'Matlab', 'Microsoft Office', 'PSIM', 'Easy Power', 'Xilinx ISE', 'Printed Circuit Board CAD (Protel)', 'Siemens Step 7', 'Wago CoDeSys', 'Allen Bradley RSLogix', 'ERP (Alliance, Global Shop, XA, SAP)', 'API', 'automation', 'budgeting', 'cabling', 'CAD', 'Conversion', 'client', 'clients', 'DC', 'Designing', 'flash', 'Functional', 'hardware design', 'HP', 'HVAC', 'instruction', 'Intel', 'microprocessor', 'Modeling', 'Motorola', 'Power distribution', 'power generation', 'processes', 'Programming', 'proposals', 'Renovation', 'renovations', 'safety', 'scheduling', 'schematics', 'Siemens', 'simulation', 'staff management', 'Structured', 'Supervising', 'switchgear', 'tender', 'troubleshoot', 'troubleshooting', 'validation']",
+        "degree_names": "['Bachelor of Science']",
+        "professional_company_names": "['Company Name', 'Company Name', 'Company Name', 'Company Name', 'Company Name']",
+        "start_dates": "['December 2014', 'May 2011', 'October 2008', 'August 2006', 'January 2005']",
+        "end_dates": "['Current', 'December 2014', 'May 2011', 'October 2008', 'August 2006']"
+    },
+    {
+        "id": 11,
+        "skills": "['Machine Learning', 'Software Development', 'Text Analysis', 'Natural Language Processing', 'Image Processing', 'Python', 'Data Management', 'Scikit Learn', 'C', 'C#', '.NET', 'SQL']",
+        "degree_names": "['B.Tech']",
+        "professional_company_names": "['HS Institute']",
+        "start_dates": "['May 2019']",
+        "end_dates": "['Oct 2019']"
+    },
+    {
+        "id": 12,
+        "skills": "['Adobe', 'Customer Relations', 'Document reports', 'Budgeting', 'Cross-functional Team Leadership', 'Business Analysis', 'Access', 'Microsoft Project', 'Organization', 'Advanced Presentation', 'Project Coordinator', 'Python', 'Quality Control', 'Quality Assurance', 'Research', 'Developing other Business Analyst', 'Public Speaking', 'Negotiation', 'SAP', 'SQL', 'SPSS', 'Oracle', 'Fast Learner', 'Strong Requirement tracing', 'Basic financial and operational reporting', 'Superb communication skills', 'Advanced problem solving abilities']",
+        "degree_names": "['Bachelor of Arts']",
+        "professional_company_names": "['Company Name', 'Company Name', 'Company Name']",
+        "start_dates": "['July 2016', 'November 2014', 'May 2014']",
+        "end_dates": "['October 2017', 'September 2015', 'November 2014']"
+    },
+    {
+        "id": 13,
+        "skills": "['Troubleshooting and problem solving', 'Exceptional telephone etiquette', 'Professional demeanor', 'Self-starter', 'Time management ability', 'Ability to prioritize', 'Deadline-oriented', 'Employee training and development', 'Sales Software: Salesforce.com, Paperless Proposals', 'Learning Management: Saba LMS, Success Factors LMS, Webex, Pedague Testing System', 'Administrative: Microsoft Office Suite, Concur', 'Technical: Vantive, Clarify']",
+        "degree_names": "['Bachelor of Science']",
+        "professional_company_names": "['Company Name', 'Company Name', 'Company Name', 'Company Name', 'Company Name', 'Company Name', 'Company Name', 'Company Name']",
+        "start_dates": "['May 2016', 'October 2014', 'February 2014', 'April 2012', 'June 2011', 'January 2011', 'January 2007', 'October 2001']",
+        "end_dates": "['Current', 'May 2016', 'October 2014', 'April 2013', 'March 2012', 'April 2011', 'May 2010', 'January 2007']"
+    },
+    {
+        "id": 14,
+        "skills": "['Machine Learning', 'Method Development', 'Artificial Intelligence', 'Data Modeling', 'Data Visualization', 'Data Validation', 'Deep Learning', 'MySQL', 'MongoDB', 'Python', 'Plotly', 'Seaborn', 'Matplotlib']",
+        "degree_names": "['B.Tech']",
+        "professional_company_names": "['BlueM Solutions']",
+        "start_dates": "['Jun 2020']",
+        "end_dates": "['till date']"
+    },
+    {
+        "id": 15,
+        "skills": "['Budget forecasting expertise', 'Analytical reasoning', 'Account reconciliation expert', 'Strong organizational skills', 'General ledger accounting', 'Expert in customer relations', 'Flexible team player', 'Advanced computer proficiency (PC and Mac)', 'Performed debit, credit and total accounts on computer spreadsheets/databases, using specialized accounting software.', 'Received, recorded, and banked cash, checks, and vouchers as well as reconciled records of bank transactions.', 'Worked with management to document and offset unusual expense variances in their respective areas.', 'Assisted the CFO with the production of the monthly financials, management reports and board packages.', 'Coded the general ledger and processed vendor invoice payments.', 'Researched and resolved billing and invoice problems.', 'Account reconciliations', 'Accounting', 'Accountant', 'accounting systems', 'accounting system', 'Accounts payable', 'Adobe Acrobat', 'agency', 'Balance', 'banking', 'Budget analysis', 'budget', 'bi', 'cash handling', 'clerical', 'contracts', 'cost accounting', 'Database', 'fax', 'FDS', 'Finance', 'Financial', 'Financial analysis', 'financial management', 'financial operations', 'financial reports', 'financial statements', 'fiscal management', 'forecasting', 'functional', 'fund accounting', 'funds', 'General Ledger', 'Government', 'grants', 'Innovation', 'maintains inventory', 'inventory', 'leadership skills', 'Macintosh', 'Mainframe', 'managerial', 'managerial accounting', 'Access', 'Microsoft Access', 'Microsoft Excel', 'Excel', 'Microsoft Office software', 'Office', 'Outlook', 'PowerPoint', 'Publisher', 'Windows', 'Word', 'Monitors', 'newsletter', 'Payroll', 'IBM-PC', 'copier', 'Policies', 'processes', 'profit', 'Program Development', 'proposals', 'QuickBooks', 'reconciling', 'record keeping', 'repairs', 'reporting', 'scanner', 'technical support', 'phone', 'time management', 'type', 'written', 'annual reports', 'year-end']",
+        "degree_names": "[\"Master's\", 'BBA']",
+        "professional_company_names": "['Company Name', 'Company Name', 'Company Name']",
+        "start_dates": "['04/2016', '04/2010', '04/2006']",
+        "end_dates": "['Current', '04/2016', 'Current']"
+    },
+    {
+        "id": 16,
+        "skills": "['Project Management', 'Secret Clearance', 'Risk management', 'Performance tracking and evaluation', 'Team building', 'Project analysis', 'Leadership mentoring', 'Business and requirements analysis', 'Operations management', 'Decisive leader']",
+        "degree_names": "['Graduate Certificate', 'MBA', 'Bachelor of Science']",
+        "professional_company_names": "['Company Name', 'Company Name', 'Company Name']",
+        "start_dates": "['01/2004', '01/2002', '07/1991']",
+        "end_dates": "['Current', '01/2004', '01/2002']"
+    },
+    {
+        "id": 17,
+        "skills": "['Army', 'basic', 'bridges', 'inspection', 'Inspects', 'Marconi', 'Office', 'Radar', 'multi-meters', 'oscilloscopes', 'personnel', 'radio', 'Read', 'Safety', 'signal generators', 'Telephone', 'troubleshooting', 'VHF']",
+        "degree_names": "['Diploma', 'N/A', 'N/A', 'N/A', 'N/A']",
+        "professional_company_names": "['Company Name', 'Company Name', 'Company Name']",
+        "start_dates": "['January 2012', 'January 2000', 'January 1992']",
+        "end_dates": "['January 2013', 'Current', 'January 2000']"
+    },
+    {
+        "id": 18,
+        "skills": "['QuickBooks', 'Sage', 'Lacerte', 'Intuit ProSeries', 'Microsoft Word', 'Microsoft Excel', 'Microsoft Access', 'Microsoft Outlook', 'Microsoft Power Pivot', 'Microsoft PowerPoint', 'CalBench', 'FASB & GAAP standards', 'Sarbanes-Oxley', 'Generally Accepted Auditing Standards']",
+        "degree_names": "['Master of Science', 'Bachelor of Science']",
+        "professional_company_names": "['Company Name', 'Company Name', 'Company Name', 'Company Name']",
+        "start_dates": "['January 2016', 'February 2015', 'May 2010', 'September 1996']",
+        "end_dates": "['Current', 'January 2016', 'August 2011', 'March 2004']"
+    },
+    {
+        "id": 19,
+        "skills": "['Machine Learning', 'Software Developer', 'Software Engineering', 'ML Engineer', 'Model Building', 'Deep Learning', 'Numpy', 'Pandas', 'PySpark', 'Hadoop', 'Matplotlib', 'Keras', 'Tensorflow', 'TensorflowJS', 'AngularJS', 'Computer Vision', 'Natural Language Processing', 'HuggingFace', 'Data Wrangling', 'Scikit Learn', 'Algorithm Optimization']",
+        "degree_names": "['B.Tech']",
+        "professional_company_names": "['Larsen & Toubro']",
+        "start_dates": "['Jul 2019']",
+        "end_dates": "['Till Date']"
+    }
+]
